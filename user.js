@@ -4,7 +4,7 @@ class User {
         this.lastName = lastName
         this.phoneNumber = phoneNumber
         this.timestamp = timestamp
-        this.email =  this.timestamp + '@knawat.com'
+        this.email =  this.timestamp + '@catalogi.com'
         this.password = password
     }
 
